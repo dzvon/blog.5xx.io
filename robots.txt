@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://blog.5xx.io/sitemap.xml
